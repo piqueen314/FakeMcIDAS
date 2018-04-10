@@ -1,6 +1,6 @@
 package edu.fake.ssec.fakeHydra;
 
-public class fakeHydraClass1 {
+public class FakeHydraClass1 {
 
     public void printer (String message){
         System.out.print(message);
@@ -17,11 +17,8 @@ public class fakeHydraClass1 {
 
             for (int row= 0; row < numRows; row++) {
                 resultSums[col] += data[row][col];
-                System.out.println(resultSums[col]);
             }
         }
         return resultSums;
-
-
     }
 }
