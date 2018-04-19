@@ -1,0 +1,3 @@
+[submodule "fakeMcIDAS/src/main/java/edu/fake/ssec/FakeHydraGitSubModule"]
+	path = fakeMcIDAS/src/main/java/edu/fake/ssec/FakeHydraGitSubModule
+	url = https://github.com/piqueen314/FakeHydraGitSubModule.git
