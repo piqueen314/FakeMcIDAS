@@ -1,6 +1,7 @@
 package edu.fake.ssec;
 import edu.fake.ssec.anotherFakePackage.FakeMcIDASClass;
-import edu.fake.ssec.fakeHydra.FakeHydraClass1;
+//import edu.fake.ssec.fakeHydra.FakeHydraClass1;
+import edu.fake.ssec.FakeHydraGitSubModule.fakeHydra.FakeHydraClass1;
 import java.util.Arrays;
 
 /**
