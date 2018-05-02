@@ -17,11 +17,11 @@ public class App
         fakeMcIDASClass.printClassName();
 
         // now the app uses some of the fakeHydra classes
-        FakeHydraClass1 fakeHydraClass1 = new FakeHydraClass1();
-        double [][] data = {{10.0, 3.0, 7.0, 6.0}, {1.0, 12.0, 15.0, 2.0}, {3.0, 9.0, 11.0, 7.0}};
-        double [] columnSums = fakeHydraClass1.columnSums(data);
-        String colSimStrings = Arrays.toString(columnSums);
-        System.out.print(colSimStrings);
+//        FakeHydraClass1 fakeHydraClass1 = new FakeHydraClass1();
+//        double [][] data = {{10.0, 3.0, 7.0, 6.0}, {1.0, 12.0, 15.0, 2.0}, {3.0, 9.0, 11.0, 7.0}};
+//        double [] columnSums = fakeHydraClass1.columnSums(data);
+//        String colSimStrings = Arrays.toString(columnSums);
+//        System.out.print(colSimStrings);
 
 
     }
